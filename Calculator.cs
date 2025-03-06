@@ -4,6 +4,9 @@ class Program
 {
     static void Main()
     {
+ conflict_branch2
+        Conflict branch("Name: Muhammad Saad Hassan, Roll No: 24-ST-058");
+
         Console.WriteLine("Name: Muhammad Saad Hassan, Roll No: 24-ST-058");
  Division
  Division
@@ -21,6 +24,7 @@ class Program
         {
             Console.WriteLine("Cannot divide by zero");
 
+ main
 Subtraction
         // Declare two numbers for the operation
         int a = 10, b = 5;
